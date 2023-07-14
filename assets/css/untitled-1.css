@@ -1,0 +1,7 @@
+@media (min-width: 300px) {
+  .btn-primary.focus, .btn-primary:focus {
+    filter: hue-rotate(360deg) invert(100%) saturate(200%);
+    background: var(--bs-btn-bg);
+  }
+}
+

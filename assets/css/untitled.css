@@ -1,0 +1,9 @@
+.fa.fa-facebook {
+}
+
+@media (min-width: 300px) {
+  .btn-xl {
+    border-right-color: rgb(254,209,54);
+  }
+}
+
